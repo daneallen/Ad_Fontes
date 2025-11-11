@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATTINY1616-MFR")(type "KiCad")(uri "/Users/danallen/Documents/KiCad/Libraries/Symbols/ATTINY1616-MFR.kicad_sym")(options "")(descr ""))
+  (lib (name "Frequently_Used")(type "KiCad")(uri "/Users/danallen/Documents/KiCad/Libraries/Symbols/Frequently_Used.kicad_sym")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "/Users/danallen/Documents/KiCad/Libraries/Symbols/misc.kicad_sym")(options "")(descr ""))
+)
