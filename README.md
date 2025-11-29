@@ -45,7 +45,7 @@ On this day students will select the 4 LEDs that will be soldered onto their PCB
 
 ![Good & Bad solder examples](/Images/Assembly/solderExamples.png)
 
-![YouTube Link for Soldering Example](https://www.youtube.com/watch?v=eHu_fGAyNY4)
+[YouTube Link for Soldering Example](https://www.youtube.com/watch?v=eHu_fGAyNY4)
 
 # Day 3
 
@@ -64,14 +64,14 @@ in the following manner.
 ![Applying the Solder Paste](/Images/Assembly/solderPasteApplication.png)
 
 3. Setup the Pick and Place Machine and have it place all the small components to the board.
-![Watch the PnP magic](https://github.com/daneallen/Ad_Fontes/blob/main/Images/Assembly/PnP.mp4)
+[Watch the PnP magic](https://github.com/daneallen/Ad_Fontes/blob/main/Images/Assembly/PnP.mp4)
 
 4. Add the larger components by hand.
 
 5. Put the board in the oven.
 
 6. Wait about 6 minutes for a freshly cooked badge to come out completed on the other side.
-![Cooked badge](/Images/Assembly/ovenFinished.mov)
+[Cooked badge](/Images/Assembly/ovenFinished.mov)
 
 7. Admire all the completed badges.
 ![All the badge assembly completed](/Images/Assembly/completedFunctional.png)
