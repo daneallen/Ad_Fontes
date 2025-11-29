@@ -64,14 +64,16 @@ in the following manner.
 ![Applying the Solder Paste](/Images/Assembly/solderPasteApplication.png)
 
 3. Setup the Pick and Place Machine and have it place all the small components to the board.
-[Watch the PnP magic](https://github.com/daneallen/Ad_Fontes/blob/main/Images/Assembly/PnP.mp4)
+[Watch the PnP magic](/Images/Assembly/PnP.mp4)
 
 4. Add the larger components by hand.
 
 5. Put the board in the oven.
+![Placing the boards in the oven](/Images/Assembly/ovenStart.png)
 
 6. Wait about 6 minutes for a freshly cooked badge to come out completed on the other side.
 [Cooked badge](/Images/Assembly/ovenFinished.mov)
 
-7. Admire all the completed badges.
+7. Enjoy all the completed badges.
+
 ![All the badge assembly completed](/Images/Assembly/completedFunctional.png)
