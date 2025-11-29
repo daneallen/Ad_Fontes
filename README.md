@@ -45,6 +45,8 @@ On this day students will select the 4 LEDs that will be soldered onto their PCB
 
 ![Good & Bad solder examples](/Images/Assembly/solderExamples.png)
 
+![YouTube Link for Soldering Example](https://www.youtube.com/watch?v=eHu_fGAyNY4)
+
 # Day 3
 
 Time to finish the PCB with some custom firmware. The ATtiny1616 utilizes the (Unified Program and Debug Interface (UPDI))[https://learn.adafruit.com/adafruit-updi-friend/overview] protocol to program the microcontroller. Having the (Adafruit UPDI Friend Programmer)[https://www.adafruit.com/product/5879] is quite helpful, especially when using it with the Tag-Connect (TC2030-IDC-NL)[https://www.tag-connect.com/product/tc2030-idc-nl] 6-pin plug-of-nails connector tool.
@@ -62,7 +64,7 @@ in the following manner.
 ![Applying the Solder Paste](/Images/Assembly/solderPasteApplication.png)
 
 3. Setup the Pick and Place Machine and have it place all the small components to the board.
-![Watch the Pick and Place magic](<video controls width="320"><source src="/Images/Assembly/PnP.mov" type="video/mp4"/>)
+![Watch the PnP magic](https://github.com/daneallen/Ad_Fontes/blob/main/Images/Assembly/PnP.mp4)
 
 4. Add the larger components by hand.
 
