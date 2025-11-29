@@ -81,6 +81,7 @@ in the following manner.
 [Watch the PnP magic](/Images/Assembly/PnP.mp4)
 
 4. Add the larger components by hand.
+<br>![Hand Placement of larger components](/Images/Assembly/manualPlacement.png)
 
 5. Put the board in the oven.
 ![Placing the boards in the oven](/Images/Assembly/ovenStart.png)
@@ -88,6 +89,4 @@ in the following manner.
 6. Wait about 6 minutes for a freshly cooked badge to come out completed on the other side.
 [Cooked badge](/Images/Assembly/ovenFinished.mov)
 
-7. Enjoy all the completed badges.
-
-![All the badge assembly completed](/Images/Assembly/completedFunctional.png)
+7. Pick your favorite 4 LED colors, solder them on and enjoy.
