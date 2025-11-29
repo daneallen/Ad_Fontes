@@ -56,19 +56,19 @@ You will notice that there numerous components already assembled on the board pr
 in the following manner.
 
 1. Setup the PCB in a jig to apply the solder paste.
-![Solder Paste Setup](/Images/Assembly/sodlerPasteSetup.png)
+![Solder Paste Setup](/Images/Assembly/solderPasteSetup.png)
 
 2. Apply the solder paste to the PCB.
 ![Applying the Solder Paste](/Images/Assembly/solderPasteApplication.png)
 
 3. Setup the Pick and Place Machine and have it place all the small components to the board.
-![Watch the Pick and Place magic](/Images/Assembly/PnP.mov)
+![Watch the Pick and Place magic](<video controls width="320"><source src="/Images/Assembly/PnP.mov" type="video/mp4"/>)
 
 4. Add the larger components by hand.
 
 5. Put the board in the oven.
 
-6. Wait about 6 minutes for a freshly cooked badge to come out completed on the otehr side.
+6. Wait about 6 minutes for a freshly cooked badge to come out completed on the other side.
 ![Cooked badge](/Images/Assembly/ovenFinished.mov)
 
 7. Admire all the completed badges.
