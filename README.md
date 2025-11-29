@@ -3,6 +3,8 @@
 A project intended to introduce students to electrical engineering, printed circuit
 board (PCB) design, soldering and embedded microcontroller programming.
 
+![Ad Fontes Completed Badge](/Images/Assembly/completedBadge.png)
+
 # Day 1
 
 Introduction to circuit design of the project. The entire design of the PCB was
@@ -45,14 +47,26 @@ On this day students will select the 4 LEDs that will be soldered onto their PCB
 
 ![Good & Bad solder examples](/Images/Assembly/solderExamples.png)
 
+Basic Steps for Soldering:
+   1. Introduce Heat
+   2. Introduce Solder
+   3. Remove the Solder
+   4. Remove the Heat  
+
 [YouTube Link for Soldering Example](https://www.youtube.com/watch?v=eHu_fGAyNY4)
 
 # Day 3
 
 Time to finish the PCB with some custom firmware. The ATtiny1616 utilizes the [Unified Program and Debug Interface (UPDI)]([https://learn.adafruit.com/adafruit-updi-friend/overview) protocol to program the microcontroller. Having the [Adafruit UPDI Friend Programmer](https://www.adafruit.com/product/5879) is quite helpful, especially when using it with the Tag-Connect [TC2030-IDC-NL](https://www.tag-connect.com/product/tc2030-idc-nl) 6-pin plug-of-nails connector tool.
 
+## Programming the Badge
 
-# Behind the Scenes
+To do... insert a picture of the badge being programmed.
+
+[Source Code](/Arduino/adFontes)
+
+
+## Behind the Scenes
 
 You will notice that there numerous components already assembled on the board prior to the 4 LEDs. Those components were assembled
 in the following manner.
