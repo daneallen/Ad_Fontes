@@ -61,9 +61,19 @@ Time to finish the PCB with some custom firmware. The ATtiny1616 utilizes the [U
 
 ## Programming the Badge
 
-To do... insert a picture of the badge being programmed.
+Programming the board is accomplished by using the interactive [programming script](/Arduino/Programming/programming.sh).
 
-[Source Code](/Arduino/adFontes)
+Available options are for the board to boot up into one of the following options:
+1. Steady On all LEDs
+2. Twinkle Effect
+3. Chase Effect
+4. Breathing Effect
+
+![Programming the board](/Images/Assembly/programming.png)
+
+## Source Code
+
+[Source Code](/Arduino/adFontes) for the board.
 
 
 ## Behind the Scenes
